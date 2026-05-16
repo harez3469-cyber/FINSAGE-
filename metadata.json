@@ -1,0 +1,8 @@
+{
+  "name": "Finsage AI",
+  "description": "A culturally-aware AI financial advisor for India, supporting regional languages and personalized investment strategies.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
